@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1596275434 source:c:\users\yogesh khatana\desktop\abdul bari\array\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1596287002 source:c:\users\yogesh khatana\desktop\abdul bari\array\array append.c
+	<stdio.h>
+	<stdlib.h>
+
